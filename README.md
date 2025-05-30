@@ -1,8 +1,8 @@
-📰 **Fake News Detection using Hybrid AI Model**
+# 📰 **Fake News Detection using Hybrid AI Model**
 
 This project aims to build a Fake News Detection System using a hybrid AI approach that analyzes both textual and visual content. The model integrates traditional machine learning for text classification and deep learning for image classification to accurately detect whether a news item is fake or real.
 
-🚀 Features
+# 🚀 Features
 	•	✅ Text-based Detection using:
 	•	Logistic Regression
 	•	Random Forest
@@ -13,14 +13,14 @@ This project aims to build a Fake News Detection System using a hybrid AI approa
 	•	📚 Model evaluation with confusion matrix, accuracy, and visual plots
 	•	🧪 Easy testing with custom user input (text/image)
 
-🧠 Model Architecture
+# 🧠 Model Architecture
 
-Text Classification
+# Text Classification
 	•	Preprocessing: Tokenization, stop-word removal, TF-IDF vectorization
 	•	Models: Logistic Regression, Random Forest, Naive Bayes
 	•	Output: Fake or Real news label
 
-Image Classification
+# Image Classification
 	•	Input: News-related images
 	•	Model: VGG16 (pretrained on ImageNet) with custom classification head
 	•	Output: Fake or Real image classification
