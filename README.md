@@ -25,10 +25,10 @@ This project aims to build a Fake News Detection System using a hybrid AI approa
 	•	Model: VGG16 (pretrained on ImageNet) with custom classification head
 	•	Output: Fake or Real image classification
 
-Combined Decision
+# Combined Decision
 	•	Weighted or parallel decision-making based on text and image results
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 	•	Language: Python
 	•	Libraries:
 	•	sklearn for classical ML models
@@ -37,7 +37,7 @@ Combined Decision
 	•	nltk, re for text preprocessing
 	•	Dataset: Text and image data for real and fake news
 
-📁 Directory Structure
+# 📁 Directory Structure
 
 ├── models/                  # Trained models
 ├── data/                    # Dataset files (text + images)
@@ -45,20 +45,20 @@ Combined Decision
 ├── notebooks/               # Jupyter/Colab notebooks
 └── README.md                # This file
 
-⚙️ How to Run
+# ⚙️ How to Run
 	1.	Install dependencies:
 
-pip install -r requirements.txt
+# pip install -r requirements.txt
 
 
 	2.	Run the main notebook:
-Open majaorproject.ipynb in Google Colab or Jupyter.
+# Open majaorproject.ipynb in Google Colab or Jupyter.
 	3.	Test your own input:
 	•	Input a news headline or body text.
 	•	Upload an associated image (optional).
 	•	Get a prediction: Fake or Real.
 
-📊 Results
+# 📊 Results
 	•	Text Accuracy:
 	•	Logistic Regression: ~96%
 	•	Random Forest: ~93%
@@ -66,15 +66,21 @@ Open majaorproject.ipynb in Google Colab or Jupyter.
 	•	Image Accuracy (VGG16): ~92%
 	•	Combined Model Accuracy: ~94–96% depending on ensemble strategy
 
-📌 Future Work
+# 📌 Future Work
 	•	Incorporate more complex multimodal fusion techniques
 	•	Expand dataset size and diversity
 	•	Deploy as a web app or browser extension
 	•	Add support for live news article scraping and verification
 
-👨‍💻 Author
+# 👨‍💻 Team Members
 
+AMAN KUMAR DAS
+JNANARANJAN MAJHI 
+ARNAB DOLUI
+RAMIT KUMAR SAHOO 
+DIBYAJYOTI BARAL
 Pritam Pani
+
 B.Tech CSE (2026) — C.V. Raman Global University
 
 📄 License
