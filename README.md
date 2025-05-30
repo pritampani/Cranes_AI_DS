@@ -74,12 +74,12 @@ This project aims to build a Fake News Detection System using a hybrid AI approa
 
 # 👨‍💻 Team Members
 
-AMAN KUMAR DAS
-JNANARANJAN MAJHI 
-ARNAB DOLUI
-RAMIT KUMAR SAHOO 
-DIBYAJYOTI BARAL
-Pritam Pani
+• AMAN KUMAR DAS
+• JNANARANJAN MAJHI 
+• ARNAB DOLUI
+• RAMIT KUMAR SAHOO 
+• DIBYAJYOTI BARAL
+• Pritam Pani
 
 B.Tech CSE (2026) — C.V. Raman Global University
 
