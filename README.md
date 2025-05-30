@@ -1,4 +1,4 @@
-📰 Fake News Detection using Hybrid AI Model
+📰 **Fake News Detection using Hybrid AI Model**
 
 This project aims to build a Fake News Detection System using a hybrid AI approach that analyzes both textual and visual content. The model integrates traditional machine learning for text classification and deep learning for image classification to accurately detect whether a news item is fake or real.
 
